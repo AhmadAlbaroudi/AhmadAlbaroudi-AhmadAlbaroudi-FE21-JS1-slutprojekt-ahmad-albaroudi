@@ -1,0 +1,32 @@
+body {
+    background-color:navy;
+    color: white;
+  }
+  .weather{
+    color: wheat;
+    padding: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+    position: sticky;
+  }
+  #btn{
+      border-radius: 30%;
+  }
+  #message{
+      color: red;
+  }
+  
+  div {
+    border: 1px solid;
+    text-align: center;
+    padding: 4rem;
+    border-radius: 20px;
+  }
+  #five-days {
+    margin-top: 4rem;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
